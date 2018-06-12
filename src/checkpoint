@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\Codehub\\ASDL2018\\src\\trained_model"
+all_model_checkpoint_paths: "D:\\Codehub\\ASDL2018\\src\\trained_model"
